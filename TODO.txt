@@ -1,0 +1,5 @@
+ + remove dependence on CSV
+ + add draws to elo system
+ + split test data
+ + generalize scrape bet file
+ + look into home team advantage and how it affects elo

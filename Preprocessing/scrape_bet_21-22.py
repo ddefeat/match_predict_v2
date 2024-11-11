@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 
 # Load the HTML content
-with open('Database/20-21/20-21.html', 'r', encoding='utf-8') as file:
+with open('Database/21-22/21-22.html', 'r', encoding='utf-8') as file:
     html_content = file.read()
 
 soup = BeautifulSoup(html_content, 'html.parser')

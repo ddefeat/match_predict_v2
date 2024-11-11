@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 
 # Load the HTML content
-with open('Database/20-21/20-21.html', 'r', encoding='utf-8') as file:
+with open('Database/19-20/19-20.html', 'r', encoding='utf-8') as file:
     html_content = file.read()
 
 soup = BeautifulSoup(html_content, 'html.parser')
@@ -66,7 +66,7 @@ for row in match_rows:
             })
 
 # Define the output JSON file path
-output_file = 'match_data_with_dates_20-21.json'
+output_file = 'match_data_with_dates_19-20.json'
 
 # Write the data to a JSON file
 with open(output_file, 'w', encoding='utf-8') as json_file:
