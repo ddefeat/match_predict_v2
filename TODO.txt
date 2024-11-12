@@ -3,3 +3,5 @@
  + split test data
  + generalize scrape bet file
  + look into home team advantage and how it affects elo
+ + evaluate ELO based on how big the win was
+        (ex. if a win was bigger than w. 3 goals, the elo change should be 1.15 times higeher)

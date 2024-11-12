@@ -8,7 +8,7 @@ K_RANGE = (10, 50)
 FLOOR_RANGE = (0.3, 0.6)
 WIN_RATE_FLOOR_RANGE = (0.1, 0.5)
 CEIL_RANGE = (0.9, 1.5)
-SEASONS = [k"22-23", "23-24"]
+SEASONS = ["22-23", "23-24"]
 
 # Genetic Algorithm Parameters
 POPULATION_SIZE = 20

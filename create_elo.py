@@ -45,6 +45,8 @@ def test_matches(rating, df, Factor):
         test_result.append(result - expected_win_home)
     return test_result
 
+
+
 def add_game_odds(df, season):
     odds = pd.read_json(f"match_data_with_dates_{season}.json")
     odds_list = []
@@ -65,7 +67,7 @@ def pick_team(rating_home, rating_visitor, odds_home, odds_visitor, FLOOR, WIN_R
     return_home = expected_home * (odds_home - 1) - expected_visitor
     return_visitor = expected_visitor * (odds_visitor - 1) - expected_home
     flag_home = return_home > return_visitor
-    flag_bet = (flag_home and expected_home > WIN_RATE_FLOOR) or (not flag_home and expected_visitor > WIN_RATE_FLOOR)
+    flag_bet = (flag_home and expected_home > WIN_RATE_FLOOR) or (not flag_home and expected_visitor > WIN_RATE_FLOOR) # decision point, if expected bet return > win rate floor (const.)
     return max(return_home, return_visitor), flag_home, flag_bet
 
 def main(factor, k, floor, win_rate_floor, ceil, season):
