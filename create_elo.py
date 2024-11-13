@@ -140,8 +140,11 @@ def pick_team(rating_home, rating_visitor, odds_home, odds_visitor, FLOOR, WIN_R
     tuple: Expected return, selected team flag, and betting decision flag.
     """
     expected_home, expected_visitor = expected_win(rating_home, rating_visitor, Factor)
-    return_home = expected_home * (odds_home - 1) - expected_visitor
-    return_visitor = expected_visitor * (odds_visitor - 1) - expected_home
+    #return_home = expected_home * (odds_home - 1) - expected_visitor
+    return_home = expected_home * odds_home - 1
+
+    #return_visitor = expected_visitor * (odds_visitor - 1) - expected_home
+    return_visitor = expected_visitor * odds_visitor - 1
     flag_home = return_home > return_visitor
     flag_bet = (flag_home and expected_home > WIN_RATE_FLOOR) or (not flag_home and expected_visitor > WIN_RATE_FLOOR)
     return max(return_home, return_visitor), flag_home, flag_bet
@@ -191,6 +194,8 @@ def main(factor, k, floor, win_rate_floor, ceil, season):
                 bets_lost += 1
     return bal
 
+
+    
 # Running the model for multiple seasons
 if __name__ == "__main__":
     print(main(FACTOR, K, FLOOR, WIN_RATE_FLOOR, CEIL, "19-20"))
@@ -198,3 +203,4 @@ if __name__ == "__main__":
     print(main(FACTOR, K, FLOOR, WIN_RATE_FLOOR, CEIL, "21-22"))
     print(main(FACTOR, K, FLOOR, WIN_RATE_FLOOR, CEIL, "22-23"))
     print(main(FACTOR, K, FLOOR, WIN_RATE_FLOOR, CEIL, "23-24"))
+    

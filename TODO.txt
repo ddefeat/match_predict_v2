@@ -6,3 +6,12 @@
  + evaluate ELO based on how big the win was
         (ex. if a win was bigger than w. 3 goals, the elo change should be 1.15 times higeher)
 + göra på aktiemarknaden
++ look up kelly criterion formula for bet size bat_faction = Edge/(odds-1)
++ give team a elo penalty if the are away or if they have key players injured
+
+according to chapGPT o4:
+Consider Market Efficiency:
+
+Issue: Betting markets are generally efficient, making consistent profits challenging.
+Explanation: Odds often reflect the true probabilities, especially in well-covered sports.
+Solution: Look for niche markets or incorporate real-time information that may not be fully accounted for in the odds.
