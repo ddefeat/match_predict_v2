@@ -9,6 +9,7 @@
 + göra på aktiemarknaden
 + look up kelly criterion formula for bet size bat_faction = Edge/(odds-1)
 + give team a elo penalty if the are away or if they have key players injured
++ Discard draws
 
 
 according to chapGPT o4:
