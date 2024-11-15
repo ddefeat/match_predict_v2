@@ -9,11 +9,11 @@ WIN_RATE_FLOOR = 0.19767074850012234
 CEIL = 1.398889540374118
 
 
-home_name = "Colorado Avalanche"
-away_name = "Vegas Golden Knights"
-odds_home = 2.18
-odds_visitor = 2.88
-season = "23-24"
+home_name = "Anaheim Ducks"
+away_name = "Detroit Red Wings"
+odds_home = 2.25
+odds_visitor = 1.65
+season = "24-25"
 
     # Load and preprocess match data
 file_path = f"Database/{season}/{season}.csv"

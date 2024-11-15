@@ -1,0 +1,2297 @@
+[
+    {
+        "Date": "2024-10-04",
+        "Time": "19:00",
+        "Home Team": "Buffalo Sabres",
+        "Away Team": "New Jersey Devils",
+        "Home Odds": 2.0501930501930503,
+        "Draw Odds": 3.51,
+        "Away Odds": 1.38996138996139
+    },
+    {
+        "Date": "2024-10-05",
+        "Time": "16:00",
+        "Home Team": "New Jersey Devils",
+        "Away Team": "Buffalo Sabres",
+        "Home Odds": 1.4247104247104247,
+        "Draw Odds": 3.51,
+        "Away Odds": 1.945945945945946
+    },
+    {
+        "Date": "2024-10-08",
+        "Time": "22:30",
+        "Home Team": "Seattle Kraken",
+        "Away Team": "St. Louis Blues",
+        "Home Odds": 1.4247104247104247,
+        "Draw Odds": 3.42,
+        "Away Odds": 2.0154440154440154
+    },
+    {
+        "Date": "2024-10-08",
+        "Time": "01:00",
+        "Home Team": "Florida Panthers",
+        "Away Team": "Boston Bruins",
+        "Home Odds": 1.3552123552123552,
+        "Draw Odds": 3.42,
+        "Away Odds": 2.084942084942085
+    },
+    {
+        "Date": "2024-10-08",
+        "Time": "04:00",
+        "Home Team": "Utah Hockey Club",
+        "Away Team": "Chicago Blackhawks",
+        "Home Odds": 1.2857142857142858,
+        "Draw Odds": 3.555,
+        "Away Odds": 2.258687258687259
+    },
+    {
+        "Date": "2024-10-09",
+        "Time": "01:00",
+        "Home Team": "Montreal Canadiens",
+        "Away Team": "Toronto Maple Leafs",
+        "Home Odds": 2.397683397683398,
+        "Draw Odds": 3.6,
+        "Away Odds": 1.2301158301158301
+    },
+    {
+        "Date": "2024-10-09",
+        "Time": "01:30",
+        "Home Team": "Pittsburgh Penguins",
+        "Away Team": "New York Rangers",
+        "Home Odds": 2.0015444015444017,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.4247104247104247
+    },
+    {
+        "Date": "2024-10-09",
+        "Time": "04:00",
+        "Home Team": "Edmonton Oilers",
+        "Away Team": "Winnipeg Jets",
+        "Home Odds": 1.2857142857142858,
+        "Draw Odds": 3.555,
+        "Away Odds": 2.258687258687259
+    },
+    {
+        "Date": "2024-10-09",
+        "Time": "04:00",
+        "Home Team": "Vancouver Canucks",
+        "Away Team": "Calgary Flames",
+        "Home Odds": 1.2301158301158301,
+        "Draw Odds": 3.6,
+        "Away Odds": 2.397683397683398
+    },
+    {
+        "Date": "2024-10-09",
+        "Time": "04:00",
+        "Home Team": "Vegas Golden Knights",
+        "Away Team": "Colorado Avalanche",
+        "Home Odds": 1.6332046332046335,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.7027027027027029
+    },
+    {
+        "Date": "2024-10-10",
+        "Time": "01:00",
+        "Home Team": "Boston Bruins",
+        "Away Team": "Montreal Canadiens",
+        "Home Odds": 1.0424710424710426,
+        "Draw Odds": 3.8970000000000002,
+        "Away Odds": 3.474903474903475
+    },
+    {
+        "Date": "2024-10-10",
+        "Time": "01:00",
+        "Home Team": "Buffalo Sabres",
+        "Away Team": "Los Angeles Kings",
+        "Home Odds": 1.6679536679536682,
+        "Draw Odds": 3.42,
+        "Away Odds": 1.654054054054054
+    },
+    {
+        "Date": "2024-10-10",
+        "Time": "01:00",
+        "Home Team": "Ottawa Senators",
+        "Away Team": "Florida Panthers",
+        "Home Odds": 1.9111969111969114,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.4594594594594597
+    },
+    {
+        "Date": "2024-10-10",
+        "Time": "01:00",
+        "Home Team": "New Jersey Devils",
+        "Away Team": "Toronto Maple Leafs",
+        "Home Odds": 1.4247104247104247,
+        "Draw Odds": 3.555,
+        "Away Odds": 1.9806949806949807
+    },
+    {
+        "Date": "2024-10-10",
+        "Time": "01:30",
+        "Home Team": "New York Islanders",
+        "Away Team": "Utah Hockey Club",
+        "Home Odds": 1.4594594594594597,
+        "Draw Odds": 3.42,
+        "Away Odds": 1.945945945945946
+    },
+    {
+        "Date": "2024-10-10",
+        "Time": "02:00",
+        "Home Team": "Detroit Red Wings",
+        "Away Team": "Pittsburgh Penguins",
+        "Home Odds": 1.38996138996139,
+        "Draw Odds": 3.555,
+        "Away Odds": 1.9806949806949807
+    },
+    {
+        "Date": "2024-10-10",
+        "Time": "02:00",
+        "Home Team": "Nashville Predators",
+        "Away Team": "Dallas Stars",
+        "Home Odds": 1.8764478764478767,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.4942084942084943
+    },
+    {
+        "Date": "2024-10-10",
+        "Time": "02:00",
+        "Home Team": "Minnesota Wild",
+        "Away Team": "Columbus Blue Jackets",
+        "Home Odds": 1.0633204633204634,
+        "Draw Odds": 3.8970000000000002,
+        "Away Odds": 3.1274131274131274
+    },
+    {
+        "Date": "2024-10-10",
+        "Time": "04:30",
+        "Home Team": "San Jose Sharks",
+        "Away Team": "St. Louis Blues",
+        "Home Odds": 2.1544401544401546,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.3413127413127413
+    },
+    {
+        "Date": "2024-10-11",
+        "Time": "01:00",
+        "Home Team": "Carolina Hurricanes",
+        "Away Team": "Tampa Bay Lightning",
+        "Home Odds": 1.38996138996139,
+        "Draw Odds": 3.51,
+        "Away Odds": 2.0501930501930503
+    },
+    {
+        "Date": "2024-10-11",
+        "Time": "02:00",
+        "Home Team": "Winnipeg Jets",
+        "Away Team": "Chicago Blackhawks",
+        "Home Odds": 1.0633204633204634,
+        "Draw Odds": 3.8970000000000002,
+        "Away Odds": 3.3011583011583014
+    },
+    {
+        "Date": "2024-10-11",
+        "Time": "04:00",
+        "Home Team": "Vancouver Canucks",
+        "Away Team": "Philadelphia Flyers",
+        "Home Odds": 1.2301158301158301,
+        "Draw Odds": 3.6,
+        "Away Odds": 2.397683397683398
+    },
+    {
+        "Date": "2024-10-11",
+        "Time": "04:00",
+        "Home Team": "Vegas Golden Knights",
+        "Away Team": "St. Louis Blues",
+        "Home Odds": 1.2023166023166023,
+        "Draw Odds": 3.6,
+        "Away Odds": 2.5366795366795367
+    },
+    {
+        "Date": "2024-10-12",
+        "Time": "19:00",
+        "Home Team": "Boston Bruins",
+        "Away Team": "Los Angeles Kings",
+        "Home Odds": 1.3552123552123552,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 2.084942084942085
+    },
+    {
+        "Date": "2024-10-12",
+        "Time": "01:00",
+        "Home Team": "Buffalo Sabres",
+        "Away Team": "Florida Panthers",
+        "Home Odds": 1.6679536679536682,
+        "Draw Odds": 3.375,
+        "Away Odds": 1.654054054054054
+    },
+    {
+        "Date": "2024-10-12",
+        "Time": "01:00",
+        "Home Team": "Toronto Maple Leafs",
+        "Away Team": "Pittsburgh Penguins",
+        "Home Odds": 1.2509652509652511,
+        "Draw Odds": 3.6,
+        "Away Odds": 2.362934362934363
+    },
+    {
+        "Date": "2024-10-12",
+        "Time": "01:00",
+        "Home Team": "Montreal Canadiens",
+        "Away Team": "Ottawa Senators",
+        "Home Odds": 2.0501930501930503,
+        "Draw Odds": 3.51,
+        "Away Odds": 1.38996138996139
+    },
+    {
+        "Date": "2024-10-12",
+        "Time": "01:00",
+        "Home Team": "Detroit Red Wings",
+        "Away Team": "Nashville Predators",
+        "Home Odds": 1.945945945945946,
+        "Draw Odds": 3.51,
+        "Away Odds": 1.4247104247104247
+    },
+    {
+        "Date": "2024-10-12",
+        "Time": "01:00",
+        "Home Team": "Washington Capitals",
+        "Away Team": "New Jersey Devils",
+        "Home Odds": 1.8764478764478767,
+        "Draw Odds": 3.42,
+        "Away Odds": 1.4594594594594597
+    },
+    {
+        "Date": "2024-10-12",
+        "Time": "01:00",
+        "Home Team": "New York Rangers",
+        "Away Team": "Utah Hockey Club",
+        "Home Odds": 1.2162162162162162,
+        "Draw Odds": 3.6,
+        "Away Odds": 2.5019305019305023
+    },
+    {
+        "Date": "2024-10-12",
+        "Time": "02:00",
+        "Home Team": "Dallas Stars",
+        "Away Team": "New York Islanders",
+        "Home Odds": 1.3204633204633205,
+        "Draw Odds": 3.51,
+        "Away Odds": 2.2239382239382244
+    },
+    {
+        "Date": "2024-10-12",
+        "Time": "02:00",
+        "Home Team": "Minnesota Wild",
+        "Away Team": "Seattle Kraken",
+        "Home Odds": 1.4594594594594597,
+        "Draw Odds": 3.42,
+        "Away Odds": 1.945945945945946
+    },
+    {
+        "Date": "2024-10-12",
+        "Time": "03:00",
+        "Home Team": "Colorado Avalanche",
+        "Away Team": "Columbus Blue Jackets",
+        "Home Odds": 1.0007722007722009,
+        "Draw Odds": 4.275,
+        "Away Odds": 3.648648648648649
+    },
+    {
+        "Date": "2024-10-12",
+        "Time": "04:00",
+        "Home Team": "Calgary Flames",
+        "Away Team": "Philadelphia Flyers",
+        "Home Odds": 1.4942084942084943,
+        "Draw Odds": 3.42,
+        "Away Odds": 1.8416988416988416
+    },
+    {
+        "Date": "2024-10-12",
+        "Time": "04:00",
+        "Home Team": "Edmonton Oilers",
+        "Away Team": "Chicago Blackhawks",
+        "Home Odds": 0.9868725868725869,
+        "Draw Odds": 4.275,
+        "Away Odds": 3.8223938223938227
+    },
+    {
+        "Date": "2024-10-12",
+        "Time": "04:00",
+        "Home Team": "San Jose Sharks",
+        "Away Team": "Anaheim Ducks",
+        "Home Odds": 1.8764478764478767,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.4594594594594597
+    },
+    {
+        "Date": "2024-10-13",
+        "Time": "00:00",
+        "Home Team": "Winnipeg Jets",
+        "Away Team": "Minnesota Wild",
+        "Home Odds": 1.3552123552123552,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 2.084942084942085
+    },
+    {
+        "Date": "2024-10-13",
+        "Time": "02:00",
+        "Home Team": "Dallas Stars",
+        "Away Team": "Seattle Kraken",
+        "Home Odds": 1.2857142857142858,
+        "Draw Odds": 3.51,
+        "Away Odds": 2.258687258687259
+    },
+    {
+        "Date": "2024-10-13",
+        "Time": "02:00",
+        "Home Team": "Edmonton Oilers",
+        "Away Team": "Calgary Flames",
+        "Home Odds": 1.0772200772200773,
+        "Draw Odds": 4.05,
+        "Away Odds": 3.0092664092664094
+    },
+    {
+        "Date": "2024-10-13",
+        "Time": "04:00",
+        "Home Team": "Vegas Golden Knights",
+        "Away Team": "Anaheim Ducks",
+        "Home Odds": 1.0424710424710426,
+        "Draw Odds": 4.05,
+        "Away Odds": 3.3011583011583014
+    },
+    {
+        "Date": "2024-10-14",
+        "Time": "19:00",
+        "Home Team": "Boston Bruins",
+        "Away Team": "Florida Panthers",
+        "Home Odds": 1.4942084942084943,
+        "Draw Odds": 3.375,
+        "Away Odds": 1.8416988416988416
+    },
+    {
+        "Date": "2024-10-14",
+        "Time": "19:00",
+        "Home Team": "Ottawa Senators",
+        "Away Team": "Los Angeles Kings",
+        "Home Odds": 1.654054054054054,
+        "Draw Odds": 3.42,
+        "Away Odds": 1.6679536679536682
+    },
+    {
+        "Date": "2024-10-14",
+        "Time": "19:00",
+        "Home Team": "New Jersey Devils",
+        "Away Team": "Utah Hockey Club",
+        "Home Odds": 1.3552123552123552,
+        "Draw Odds": 3.555,
+        "Away Odds": 2.084942084942085
+    },
+    {
+        "Date": "2024-10-14",
+        "Time": "01:00",
+        "Home Team": "New York Rangers",
+        "Away Team": "Detroit Red Wings",
+        "Home Odds": 1.1119691119691122,
+        "Draw Odds": 3.8970000000000002,
+        "Away Odds": 2.9189189189189193
+    },
+    {
+        "Date": "2024-10-14",
+        "Time": "01:30",
+        "Home Team": "Montreal Canadiens",
+        "Away Team": "Pittsburgh Penguins",
+        "Home Odds": 1.945945945945946,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.4247104247104247
+    },
+    {
+        "Date": "2024-10-14",
+        "Time": "03:00",
+        "Home Team": "Colorado Avalanche",
+        "Away Team": "New York Islanders",
+        "Home Odds": 1.38996138996139,
+        "Draw Odds": 3.51,
+        "Away Odds": 2.0501930501930503
+    },
+    {
+        "Date": "2024-10-15",
+        "Time": "01:00",
+        "Home Team": "Tampa Bay Lightning",
+        "Away Team": "Vancouver Canucks",
+        "Home Odds": 1.4594594594594597,
+        "Draw Odds": 3.9600000000000004,
+        "Away Odds": 1.8764478764478767
+    },
+    {
+        "Date": "2024-10-15",
+        "Time": "01:00",
+        "Home Team": "Washington Capitals",
+        "Away Team": "Vegas Golden Knights",
+        "Home Odds": 1.8764478764478767,
+        "Draw Odds": 3.8970000000000002,
+        "Away Odds": 1.4942084942084943
+    },
+    {
+        "Date": "2024-10-15",
+        "Time": "01:00",
+        "Home Team": "Carolina Hurricanes",
+        "Away Team": "New Jersey Devils",
+        "Home Odds": 1.3552123552123552,
+        "Draw Odds": 3.8970000000000002,
+        "Away Odds": 2.084942084942085
+    },
+    {
+        "Date": "2024-10-15",
+        "Time": "01:00",
+        "Home Team": "Columbus Blue Jackets",
+        "Away Team": "Florida Panthers",
+        "Home Odds": 2.084942084942085,
+        "Draw Odds": 3.9600000000000004,
+        "Away Odds": 1.38996138996139
+    },
+    {
+        "Date": "2024-10-15",
+        "Time": "01:30",
+        "Home Team": "St. Louis Blues",
+        "Away Team": "Minnesota Wild",
+        "Home Odds": 1.7374517374517375,
+        "Draw Odds": 3.7800000000000002,
+        "Away Odds": 1.5984555984555984
+    },
+    {
+        "Date": "2024-10-15",
+        "Time": "02:00",
+        "Home Team": "Nashville Predators",
+        "Away Team": "Seattle Kraken",
+        "Home Odds": 1.271814671814672,
+        "Draw Odds": 3.9600000000000004,
+        "Away Odds": 2.328185328185328
+    },
+    {
+        "Date": "2024-10-15",
+        "Time": "02:00",
+        "Home Team": "Dallas Stars",
+        "Away Team": "San Jose Sharks",
+        "Home Odds": 1.0007722007722009,
+        "Draw Odds": 4.5,
+        "Away Odds": 3.9961389961389964
+    },
+    {
+        "Date": "2024-10-15",
+        "Time": "03:00",
+        "Home Team": "Calgary Flames",
+        "Away Team": "Chicago Blackhawks",
+        "Home Odds": 1.38996138996139,
+        "Draw Odds": 3.8970000000000002,
+        "Away Odds": 2.0501930501930503
+    },
+    {
+        "Date": "2024-10-15",
+        "Time": "04:00",
+        "Home Team": "Edmonton Oilers",
+        "Away Team": "Philadelphia Flyers",
+        "Home Odds": 1.2301158301158301,
+        "Draw Odds": 4.14,
+        "Away Odds": 2.5714285714285716
+    },
+    {
+        "Date": "2024-10-16",
+        "Time": "01:00",
+        "Home Team": "Pittsburgh Penguins",
+        "Away Team": "Buffalo Sabres",
+        "Home Odds": 1.5984555984555984,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.7374517374517375
+    },
+    {
+        "Date": "2024-10-16",
+        "Time": "01:30",
+        "Home Team": "Toronto Maple Leafs",
+        "Away Team": "Los Angeles Kings",
+        "Home Odds": 1.2301158301158301,
+        "Draw Odds": 3.6,
+        "Away Odds": 2.397683397683398
+    },
+    {
+        "Date": "2024-10-16",
+        "Time": "03:30",
+        "Home Team": "Colorado Avalanche",
+        "Away Team": "Boston Bruins",
+        "Home Odds": 1.4594594594594597,
+        "Draw Odds": 3.555,
+        "Away Odds": 1.8764478764478767
+    },
+    {
+        "Date": "2024-10-16",
+        "Time": "04:00",
+        "Home Team": "Anaheim Ducks",
+        "Away Team": "Utah Hockey Club",
+        "Home Odds": 2.084942084942085,
+        "Draw Odds": 3.51,
+        "Away Odds": 1.3552123552123552
+    },
+    {
+        "Date": "2024-10-17",
+        "Time": "01:00",
+        "Home Team": "Montreal Canadiens",
+        "Away Team": "Los Angeles Kings",
+        "Home Odds": 1.9111969111969114,
+        "Draw Odds": 3.42,
+        "Away Odds": 1.4594594594594597
+    },
+    {
+        "Date": "2024-10-17",
+        "Time": "01:00",
+        "Home Team": "Ottawa Senators",
+        "Away Team": "New Jersey Devils",
+        "Home Odds": 1.945945945945946,
+        "Draw Odds": 3.51,
+        "Away Odds": 1.4247104247104247
+    },
+    {
+        "Date": "2024-10-17",
+        "Time": "01:00",
+        "Home Team": "Tampa Bay Lightning",
+        "Away Team": "Vegas Golden Knights",
+        "Home Odds": 1.38996138996139,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 2.0154440154440154
+    },
+    {
+        "Date": "2024-10-17",
+        "Time": "01:00",
+        "Home Team": "Florida Panthers",
+        "Away Team": "Vancouver Canucks",
+        "Home Odds": 1.7027027027027029,
+        "Draw Odds": 3.375,
+        "Away Odds": 1.6332046332046335
+    },
+    {
+        "Date": "2024-10-17",
+        "Time": "01:00",
+        "Home Team": "Washington Capitals",
+        "Away Team": "Dallas Stars",
+        "Home Odds": 2.0501930501930503,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.38996138996139
+    },
+    {
+        "Date": "2024-10-17",
+        "Time": "01:00",
+        "Home Team": "Columbus Blue Jackets",
+        "Away Team": "Buffalo Sabres",
+        "Home Odds": 1.9806949806949807,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.4247104247104247
+    },
+    {
+        "Date": "2024-10-17",
+        "Time": "01:30",
+        "Home Team": "Detroit Red Wings",
+        "Away Team": "New York Rangers",
+        "Home Odds": 2.0501930501930503,
+        "Draw Odds": 3.51,
+        "Away Odds": 1.38996138996139
+    },
+    {
+        "Date": "2024-10-17",
+        "Time": "02:00",
+        "Home Team": "St. Louis Blues",
+        "Away Team": "New York Islanders",
+        "Home Odds": 1.9806949806949807,
+        "Draw Odds": 3.42,
+        "Away Odds": 1.4247104247104247
+    },
+    {
+        "Date": "2024-10-17",
+        "Time": "02:00",
+        "Home Team": "Nashville Predators",
+        "Away Team": "Edmonton Oilers",
+        "Home Odds": 1.7722007722007722,
+        "Draw Odds": 3.51,
+        "Away Odds": 1.5289575289575292
+    },
+    {
+        "Date": "2024-10-17",
+        "Time": "02:30",
+        "Home Team": "Chicago Blackhawks",
+        "Away Team": "San Jose Sharks",
+        "Home Odds": 1.271814671814672,
+        "Draw Odds": 3.555,
+        "Away Odds": 2.328185328185328
+    },
+    {
+        "Date": "2024-10-17",
+        "Time": "04:00",
+        "Home Team": "Seattle Kraken",
+        "Away Team": "Philadelphia Flyers",
+        "Home Odds": 1.4594594594594597,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.8764478764478767
+    },
+    {
+        "Date": "2024-10-18",
+        "Time": "01:00",
+        "Home Team": "Pittsburgh Penguins",
+        "Away Team": "Carolina Hurricanes",
+        "Home Odds": 2.1544401544401546,
+        "Draw Odds": 3.555,
+        "Away Odds": 1.3413127413127413
+    },
+    {
+        "Date": "2024-10-18",
+        "Time": "02:00",
+        "Home Team": "Winnipeg Jets",
+        "Away Team": "San Jose Sharks",
+        "Home Odds": 0.972972972972973,
+        "Draw Odds": 4.275,
+        "Away Odds": 4.16988416988417
+    },
+    {
+        "Date": "2024-10-18",
+        "Time": "03:00",
+        "Home Team": "Colorado Avalanche",
+        "Away Team": "Anaheim Ducks",
+        "Home Odds": 1.0772200772200773,
+        "Draw Odds": 3.8970000000000002,
+        "Away Odds": 3.0092664092664094
+    },
+    {
+        "Date": "2024-10-19",
+        "Time": "19:00",
+        "Home Team": "Ottawa Senators",
+        "Away Team": "Tampa Bay Lightning",
+        "Home Odds": 1.9111969111969114,
+        "Draw Odds": 3.51,
+        "Away Odds": 1.4247104247104247
+    },
+    {
+        "Date": "2024-10-19",
+        "Time": "20:00",
+        "Home Team": "Nashville Predators",
+        "Away Team": "Detroit Red Wings",
+        "Home Odds": 1.2509652509652511,
+        "Draw Odds": 3.6,
+        "Away Odds": 2.362934362934363
+    },
+    {
+        "Date": "2024-10-19",
+        "Time": "22:00",
+        "Home Team": "Dallas Stars",
+        "Away Team": "Edmonton Oilers",
+        "Home Odds": 1.7374517374517375,
+        "Draw Odds": 3.42,
+        "Away Odds": 1.5984555984555984
+    },
+    {
+        "Date": "2024-10-19",
+        "Time": "00:00",
+        "Home Team": "Florida Panthers",
+        "Away Team": "Vegas Golden Knights",
+        "Home Odds": 1.5637065637065637,
+        "Draw Odds": 3.375,
+        "Away Odds": 1.8069498069498073
+    },
+    {
+        "Date": "2024-10-19",
+        "Time": "01:00",
+        "Home Team": "Toronto Maple Leafs",
+        "Away Team": "New York Rangers",
+        "Home Odds": 1.4942084942084943,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.8416988416988416
+    },
+    {
+        "Date": "2024-10-19",
+        "Time": "01:00",
+        "Home Team": "New Jersey Devils",
+        "Away Team": "Washington Capitals",
+        "Home Odds": 1.2509652509652511,
+        "Draw Odds": 3.6,
+        "Away Odds": 2.362934362934363
+    },
+    {
+        "Date": "2024-10-19",
+        "Time": "01:00",
+        "Home Team": "New York Islanders",
+        "Away Team": "Montreal Canadiens",
+        "Home Odds": 1.125868725868726,
+        "Draw Odds": 3.7800000000000002,
+        "Away Odds": 2.77992277992278
+    },
+    {
+        "Date": "2024-10-19",
+        "Time": "01:00",
+        "Home Team": "Philadelphia Flyers",
+        "Away Team": "Vancouver Canucks",
+        "Home Odds": 2.0154440154440154,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.38996138996139
+    },
+    {
+        "Date": "2024-10-19",
+        "Time": "01:00",
+        "Home Team": "Columbus Blue Jackets",
+        "Away Team": "Minnesota Wild",
+        "Home Odds": 2.2934362934362933,
+        "Draw Odds": 3.555,
+        "Away Odds": 1.271814671814672
+    },
+    {
+        "Date": "2024-10-19",
+        "Time": "01:00",
+        "Home Team": "St. Louis Blues",
+        "Away Team": "Carolina Hurricanes",
+        "Home Odds": 2.1544401544401546,
+        "Draw Odds": 3.51,
+        "Away Odds": 1.3413127413127413
+    },
+    {
+        "Date": "2024-10-19",
+        "Time": "02:00",
+        "Home Team": "Chicago Blackhawks",
+        "Away Team": "Buffalo Sabres",
+        "Home Odds": 2.0154440154440154,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.38996138996139
+    },
+    {
+        "Date": "2024-10-19",
+        "Time": "03:00",
+        "Home Team": "Utah Hockey Club",
+        "Away Team": "Boston Bruins",
+        "Home Odds": 1.945945945945946,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.4594594594594597
+    },
+    {
+        "Date": "2024-10-19",
+        "Time": "04:00",
+        "Home Team": "Seattle Kraken",
+        "Away Team": "Calgary Flames",
+        "Home Odds": 1.4247104247104247,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 2.0015444015444017
+    },
+    {
+        "Date": "2024-10-20",
+        "Time": "21:00",
+        "Home Team": "Winnipeg Jets",
+        "Away Team": "Pittsburgh Penguins",
+        "Home Odds": 1.4942084942084943,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.8764478764478767
+    },
+    {
+        "Date": "2024-10-20",
+        "Time": "02:00",
+        "Home Team": "San Jose Sharks",
+        "Away Team": "Colorado Avalanche",
+        "Home Odds": 3.3011583011583014,
+        "Draw Odds": 4.05,
+        "Away Odds": 1.0424710424710426
+    },
+    {
+        "Date": "2024-10-20",
+        "Time": "02:00",
+        "Home Team": "Anaheim Ducks",
+        "Away Team": "Los Angeles Kings",
+        "Home Odds": 2.2934362934362933,
+        "Draw Odds": 3.555,
+        "Away Odds": 1.271814671814672
+    },
+    {
+        "Date": "2024-10-21",
+        "Time": "01:30",
+        "Home Team": "Toronto Maple Leafs",
+        "Away Team": "Tampa Bay Lightning",
+        "Home Odds": 1.4247104247104247,
+        "Draw Odds": 3.51,
+        "Away Odds": 1.9111969111969114
+    },
+    {
+        "Date": "2024-10-22",
+        "Time": "00:00",
+        "Home Team": "Philadelphia Flyers",
+        "Away Team": "Washington Capitals",
+        "Home Odds": 1.4594594594594597,
+        "Draw Odds": 3.42,
+        "Away Odds": 1.9111969111969114
+    },
+    {
+        "Date": "2024-10-22",
+        "Time": "00:30",
+        "Home Team": "Florida Panthers",
+        "Away Team": "Minnesota Wild",
+        "Home Odds": 1.38996138996139,
+        "Draw Odds": 3.42,
+        "Away Odds": 2.084942084942085
+    },
+    {
+        "Date": "2024-10-22",
+        "Time": "00:45",
+        "Home Team": "New Jersey Devils",
+        "Away Team": "Tampa Bay Lightning",
+        "Home Odds": 1.38996138996139,
+        "Draw Odds": 3.6,
+        "Away Odds": 2.0154440154440154
+    },
+    {
+        "Date": "2024-10-22",
+        "Time": "01:00",
+        "Home Team": "Buffalo Sabres",
+        "Away Team": "Dallas Stars",
+        "Home Odds": 2.0501930501930503,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.38996138996139
+    },
+    {
+        "Date": "2024-10-22",
+        "Time": "01:15",
+        "Home Team": "Montreal Canadiens",
+        "Away Team": "New York Rangers",
+        "Home Odds": 3.0092664092664094,
+        "Draw Odds": 3.8970000000000002,
+        "Away Odds": 1.0911196911196912
+    },
+    {
+        "Date": "2024-10-22",
+        "Time": "01:30",
+        "Home Team": "Columbus Blue Jackets",
+        "Away Team": "Toronto Maple Leafs",
+        "Home Odds": 2.4324324324324325,
+        "Draw Odds": 3.6,
+        "Away Odds": 1.2162162162162162
+    },
+    {
+        "Date": "2024-10-22",
+        "Time": "01:45",
+        "Home Team": "New York Islanders",
+        "Away Team": "Detroit Red Wings",
+        "Home Odds": 1.3204633204633205,
+        "Draw Odds": 3.555,
+        "Away Odds": 2.2239382239382244
+    },
+    {
+        "Date": "2024-10-22",
+        "Time": "02:00",
+        "Home Team": "St. Louis Blues",
+        "Away Team": "Winnipeg Jets",
+        "Home Odds": 1.9806949806949807,
+        "Draw Odds": 3.42,
+        "Away Odds": 1.4247104247104247
+    },
+    {
+        "Date": "2024-10-22",
+        "Time": "02:15",
+        "Home Team": "Chicago Blackhawks",
+        "Away Team": "Vancouver Canucks",
+        "Home Odds": 2.328185328185328,
+        "Draw Odds": 3.51,
+        "Away Odds": 1.271814671814672
+    },
+    {
+        "Date": "2024-10-22",
+        "Time": "02:30",
+        "Home Team": "Seattle Kraken",
+        "Away Team": "Colorado Avalanche",
+        "Home Odds": 1.8416988416988416,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.4942084942084943
+    },
+    {
+        "Date": "2024-10-22",
+        "Time": "02:45",
+        "Home Team": "Nashville Predators",
+        "Away Team": "Boston Bruins",
+        "Home Odds": 1.4594594594594597,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.945945945945946
+    },
+    {
+        "Date": "2024-10-22",
+        "Time": "03:00",
+        "Home Team": "Edmonton Oilers",
+        "Away Team": "Carolina Hurricanes",
+        "Home Odds": 1.5637065637065637,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.7722007722007722
+    },
+    {
+        "Date": "2024-10-22",
+        "Time": "03:15",
+        "Home Team": "Utah Hockey Club",
+        "Away Team": "Ottawa Senators",
+        "Home Odds": 1.5984555984555984,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.7374517374517375
+    },
+    {
+        "Date": "2024-10-22",
+        "Time": "03:30",
+        "Home Team": "Calgary Flames",
+        "Away Team": "Pittsburgh Penguins",
+        "Home Odds": 1.5637065637065637,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.7374517374517375
+    },
+    {
+        "Date": "2024-10-22",
+        "Time": "04:15",
+        "Home Team": "Anaheim Ducks",
+        "Away Team": "San Jose Sharks",
+        "Home Odds": 1.3552123552123552,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 2.084942084942085
+    },
+    {
+        "Date": "2024-10-22",
+        "Time": "05:00",
+        "Home Team": "Vegas Golden Knights",
+        "Away Team": "Los Angeles Kings",
+        "Home Odds": 1.5289575289575292,
+        "Draw Odds": 3.375,
+        "Away Odds": 1.8069498069498073
+    },
+    {
+        "Date": "2024-10-23",
+        "Time": "01:30",
+        "Home Team": "Washington Capitals",
+        "Away Team": "Philadelphia Flyers",
+        "Home Odds": 1.4247104247104247,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.9806949806949807
+    },
+    {
+        "Date": "2024-10-24",
+        "Time": "01:00",
+        "Home Team": "Boston Bruins",
+        "Away Team": "Dallas Stars",
+        "Home Odds": 1.5984555984555984,
+        "Draw Odds": 3.375,
+        "Away Odds": 1.7374517374517375
+    },
+    {
+        "Date": "2024-10-24",
+        "Time": "01:00",
+        "Home Team": "Toronto Maple Leafs",
+        "Away Team": "St. Louis Blues",
+        "Home Odds": 1.0911196911196912,
+        "Draw Odds": 3.7800000000000002,
+        "Away Odds": 3.0092664092664094
+    },
+    {
+        "Date": "2024-10-24",
+        "Time": "01:00",
+        "Home Team": "Detroit Red Wings",
+        "Away Team": "New Jersey Devils",
+        "Home Odds": 2.2239382239382244,
+        "Draw Odds": 3.6,
+        "Away Odds": 1.3204633204633205
+    },
+    {
+        "Date": "2024-10-24",
+        "Time": "01:00",
+        "Home Team": "Tampa Bay Lightning",
+        "Away Team": "Minnesota Wild",
+        "Home Odds": 1.3552123552123552,
+        "Draw Odds": 3.51,
+        "Away Odds": 2.084942084942085
+    },
+    {
+        "Date": "2024-10-24",
+        "Time": "01:00",
+        "Home Team": "New York Rangers",
+        "Away Team": "Florida Panthers",
+        "Home Odds": 1.38996138996139,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 2.0501930501930503
+    },
+    {
+        "Date": "2024-10-24",
+        "Time": "03:00",
+        "Home Team": "Calgary Flames",
+        "Away Team": "Carolina Hurricanes",
+        "Home Odds": 2.397683397683398,
+        "Draw Odds": 3.6,
+        "Away Odds": 1.2509652509652511
+    },
+    {
+        "Date": "2024-10-24",
+        "Time": "03:00",
+        "Home Team": "Utah Hockey Club",
+        "Away Team": "Colorado Avalanche",
+        "Home Odds": 1.9111969111969114,
+        "Draw Odds": 3.51,
+        "Away Odds": 1.4594594594594597
+    },
+    {
+        "Date": "2024-10-24",
+        "Time": "04:00",
+        "Home Team": "Seattle Kraken",
+        "Away Team": "Winnipeg Jets",
+        "Home Odds": 1.8764478764478767,
+        "Draw Odds": 3.42,
+        "Away Odds": 1.4942084942084943
+    },
+    {
+        "Date": "2024-10-24",
+        "Time": "04:30",
+        "Home Team": "Los Angeles Kings",
+        "Away Team": "San Jose Sharks",
+        "Home Odds": 1.0424710424710426,
+        "Draw Odds": 3.8970000000000002,
+        "Away Odds": 3.474903474903475
+    },
+    {
+        "Date": "2024-10-25",
+        "Time": "00:00",
+        "Home Team": "Vegas Golden Knights",
+        "Away Team": "Ottawa Senators",
+        "Home Odds": 1.5289575289575292,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.8069498069498073
+    },
+    {
+        "Date": "2024-10-25",
+        "Time": "01:00",
+        "Home Team": "New Jersey Devils",
+        "Away Team": "New York Islanders",
+        "Home Odds": 1.5984555984555984,
+        "Draw Odds": 3.42,
+        "Away Odds": 1.7027027027027029
+    },
+    {
+        "Date": "2024-10-25",
+        "Time": "02:30",
+        "Home Team": "Chicago Blackhawks",
+        "Away Team": "Nashville Predators",
+        "Home Odds": 2.2934362934362933,
+        "Draw Odds": 3.555,
+        "Away Odds": 1.2857142857142858
+    },
+    {
+        "Date": "2024-10-25",
+        "Time": "03:00",
+        "Home Team": "Edmonton Oilers",
+        "Away Team": "Pittsburgh Penguins",
+        "Home Odds": 1.1119691119691122,
+        "Draw Odds": 3.8970000000000002,
+        "Away Odds": 2.77992277992278
+    },
+    {
+        "Date": "2024-10-26",
+        "Time": "19:00",
+        "Home Team": "Buffalo Sabres",
+        "Away Team": "Detroit Red Wings",
+        "Home Odds": 1.4247104247104247,
+        "Draw Odds": 3.51,
+        "Away Odds": 1.9806949806949807
+    },
+    {
+        "Date": "2024-10-26",
+        "Time": "19:00",
+        "Home Team": "Philadelphia Flyers",
+        "Away Team": "Minnesota Wild",
+        "Home Odds": 1.9111969111969114,
+        "Draw Odds": 3.42,
+        "Away Odds": 1.4942084942084943
+    },
+    {
+        "Date": "2024-10-26",
+        "Time": "22:00",
+        "Home Team": "Los Angeles Kings",
+        "Away Team": "Utah Hockey Club",
+        "Home Odds": 1.38996138996139,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 2.0154440154440154
+    },
+    {
+        "Date": "2024-10-26",
+        "Time": "01:00",
+        "Home Team": "Boston Bruins",
+        "Away Team": "Toronto Maple Leafs",
+        "Home Odds": 1.7722007722007722,
+        "Draw Odds": 3.42,
+        "Away Odds": 1.5637065637065637
+    },
+    {
+        "Date": "2024-10-26",
+        "Time": "01:00",
+        "Home Team": "Montreal Canadiens",
+        "Away Team": "St. Louis Blues",
+        "Home Odds": 1.8069498069498073,
+        "Draw Odds": 3.42,
+        "Away Odds": 1.5637065637065637
+    },
+    {
+        "Date": "2024-10-26",
+        "Time": "01:00",
+        "Home Team": "Tampa Bay Lightning",
+        "Away Team": "Washington Capitals",
+        "Home Odds": 1.3274131274131273,
+        "Draw Odds": 3.555,
+        "Away Odds": 2.1544401544401546
+    },
+    {
+        "Date": "2024-10-26",
+        "Time": "01:00",
+        "Home Team": "New York Rangers",
+        "Away Team": "Anaheim Ducks",
+        "Home Odds": 1.0285714285714287,
+        "Draw Odds": 4.05,
+        "Away Odds": 3.474903474903475
+    },
+    {
+        "Date": "2024-10-26",
+        "Time": "01:00",
+        "Home Team": "Calgary Flames",
+        "Away Team": "Winnipeg Jets",
+        "Home Odds": 1.7374517374517375,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.5984555984555984
+    },
+    {
+        "Date": "2024-10-26",
+        "Time": "01:30",
+        "Home Team": "New York Islanders",
+        "Away Team": "Florida Panthers",
+        "Home Odds": 1.945945945945946,
+        "Draw Odds": 3.42,
+        "Away Odds": 1.4594594594594597
+    },
+    {
+        "Date": "2024-10-26",
+        "Time": "02:00",
+        "Home Team": "Nashville Predators",
+        "Away Team": "Columbus Blue Jackets",
+        "Home Odds": 1.2023166023166023,
+        "Draw Odds": 3.6,
+        "Away Odds": 2.5019305019305023
+    },
+    {
+        "Date": "2024-10-26",
+        "Time": "02:00",
+        "Home Team": "Dallas Stars",
+        "Away Team": "Chicago Blackhawks",
+        "Home Odds": 1.0007722007722009,
+        "Draw Odds": 4.05,
+        "Away Odds": 3.8223938223938227
+    },
+    {
+        "Date": "2024-10-26",
+        "Time": "03:00",
+        "Home Team": "Vancouver Canucks",
+        "Away Team": "Pittsburgh Penguins",
+        "Home Odds": 1.2301158301158301,
+        "Draw Odds": 3.6,
+        "Away Odds": 2.397683397683398
+    },
+    {
+        "Date": "2024-10-26",
+        "Time": "03:00",
+        "Home Team": "Vegas Golden Knights",
+        "Away Team": "San Jose Sharks",
+        "Home Odds": 1.0424710424710426,
+        "Draw Odds": 3.8970000000000002,
+        "Away Odds": 3.474903474903475
+    },
+    {
+        "Date": "2024-10-26",
+        "Time": "03:00",
+        "Home Team": "Seattle Kraken",
+        "Away Team": "Carolina Hurricanes",
+        "Home Odds": 2.328185328185328,
+        "Draw Odds": 3.51,
+        "Away Odds": 1.271814671814672
+    },
+    {
+        "Date": "2024-10-27",
+        "Time": "23:00",
+        "Home Team": "Detroit Red Wings",
+        "Away Team": "Edmonton Oilers",
+        "Home Odds": 2.9189189189189193,
+        "Draw Odds": 4.32,
+        "Away Odds": 1.0911196911196912
+    },
+    {
+        "Date": "2024-10-27",
+        "Time": "00:00",
+        "Home Team": "New Jersey Devils",
+        "Away Team": "Anaheim Ducks",
+        "Home Odds": 1.0007722007722009,
+        "Draw Odds": 4.95,
+        "Away Odds": 3.648648648648649
+    },
+    {
+        "Date": "2024-10-27",
+        "Time": "00:00",
+        "Home Team": "Philadelphia Flyers",
+        "Away Team": "Montreal Canadiens",
+        "Home Odds": 1.3204633204633205,
+        "Draw Odds": 4.05,
+        "Away Odds": 2.1544401544401546
+    },
+    {
+        "Date": "2024-10-27",
+        "Time": "02:00",
+        "Home Team": "Colorado Avalanche",
+        "Away Team": "Ottawa Senators",
+        "Home Odds": 1.2857142857142858,
+        "Draw Odds": 4.05,
+        "Away Odds": 2.2239382239382244
+    },
+    {
+        "Date": "2024-10-28",
+        "Time": "00:00",
+        "Home Team": "Buffalo Sabres",
+        "Away Team": "Florida Panthers",
+        "Home Odds": 2.0154440154440154,
+        "Draw Odds": 3.51,
+        "Away Odds": 1.38996138996139
+    },
+    {
+        "Date": "2024-10-28",
+        "Time": "00:00",
+        "Home Team": "Columbus Blue Jackets",
+        "Away Team": "Edmonton Oilers",
+        "Home Odds": 2.9189189189189193,
+        "Draw Odds": 3.8970000000000002,
+        "Away Odds": 1.0911196911196912
+    },
+    {
+        "Date": "2024-10-28",
+        "Time": "00:30",
+        "Home Team": "Tampa Bay Lightning",
+        "Away Team": "Nashville Predators",
+        "Home Odds": 1.4247104247104247,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.945945945945946
+    },
+    {
+        "Date": "2024-10-28",
+        "Time": "00:30",
+        "Home Team": "Winnipeg Jets",
+        "Away Team": "Toronto Maple Leafs",
+        "Home Odds": 1.7027027027027029,
+        "Draw Odds": 3.8970000000000002,
+        "Away Odds": 1.6679536679536682
+    },
+    {
+        "Date": "2024-10-28",
+        "Time": "02:00",
+        "Home Team": "Colorado Avalanche",
+        "Away Team": "Chicago Blackhawks",
+        "Home Odds": 1.2509652509652511,
+        "Draw Odds": 3.6,
+        "Away Odds": 2.397683397683398
+    },
+    {
+        "Date": "2024-10-28",
+        "Time": "02:00",
+        "Home Team": "Utah Hockey Club",
+        "Away Team": "San Jose Sharks",
+        "Home Odds": 1.1119691119691122,
+        "Draw Odds": 4.275,
+        "Away Odds": 3.1274131274131274
+    },
+    {
+        "Date": "2024-10-28",
+        "Time": "03:00",
+        "Home Team": "Vancouver Canucks",
+        "Away Team": "Carolina Hurricanes",
+        "Home Odds": 1.8416988416988416,
+        "Draw Odds": 3.8970000000000002,
+        "Away Odds": 1.5637065637065637
+    },
+    {
+        "Date": "2024-10-28",
+        "Time": "03:00",
+        "Home Team": "Vegas Golden Knights",
+        "Away Team": "Calgary Flames",
+        "Home Odds": 1.3204633204633205,
+        "Draw Odds": 3.555,
+        "Away Odds": 2.1544401544401546
+    },
+    {
+        "Date": "2024-10-29",
+        "Time": "00:00",
+        "Home Team": "Boston Bruins",
+        "Away Team": "Philadelphia Flyers",
+        "Home Odds": 1.3274131274131273,
+        "Draw Odds": 3.6,
+        "Away Odds": 2.1544401544401546
+    },
+    {
+        "Date": "2024-10-29",
+        "Time": "00:00",
+        "Home Team": "Montreal Canadiens",
+        "Away Team": "Seattle Kraken",
+        "Home Odds": 2.1544401544401546,
+        "Draw Odds": 3.51,
+        "Away Odds": 1.3204633204633205
+    },
+    {
+        "Date": "2024-10-29",
+        "Time": "00:00",
+        "Home Team": "Ottawa Senators",
+        "Away Team": "St. Louis Blues",
+        "Home Odds": 1.271814671814672,
+        "Draw Odds": 3.6,
+        "Away Odds": 2.328185328185328
+    },
+    {
+        "Date": "2024-10-29",
+        "Time": "00:00",
+        "Home Team": "New York Islanders",
+        "Away Team": "Anaheim Ducks",
+        "Home Odds": 1.0911196911196912,
+        "Draw Odds": 3.7800000000000002,
+        "Away Odds": 3.0092664092664094
+    },
+    {
+        "Date": "2024-10-29",
+        "Time": "00:00",
+        "Home Team": "Pittsburgh Penguins",
+        "Away Team": "Minnesota Wild",
+        "Home Odds": 1.7374517374517375,
+        "Draw Odds": 3.42,
+        "Away Odds": 1.5637065637065637
+    },
+    {
+        "Date": "2024-10-29",
+        "Time": "00:30",
+        "Home Team": "Washington Capitals",
+        "Away Team": "New York Rangers",
+        "Home Odds": 2.0501930501930503,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.38996138996139
+    },
+    {
+        "Date": "2024-10-29",
+        "Time": "03:00",
+        "Home Team": "San Jose Sharks",
+        "Away Team": "Los Angeles Kings",
+        "Home Odds": 3.8223938223938227,
+        "Draw Odds": 4.05,
+        "Away Odds": 1.0007722007722009
+    },
+    {
+        "Date": "2024-10-30",
+        "Time": "00:00",
+        "Home Team": "Columbus Blue Jackets",
+        "Away Team": "New York Islanders",
+        "Home Odds": 1.8764478764478767,
+        "Draw Odds": 3.42,
+        "Away Odds": 1.4942084942084943
+    },
+    {
+        "Date": "2024-10-30",
+        "Time": "00:30",
+        "Home Team": "Detroit Red Wings",
+        "Away Team": "Winnipeg Jets",
+        "Home Odds": 2.1544401544401546,
+        "Draw Odds": 3.51,
+        "Away Odds": 1.3204633204633205
+    },
+    {
+        "Date": "2024-10-30",
+        "Time": "02:00",
+        "Home Team": "Colorado Avalanche",
+        "Away Team": "Tampa Bay Lightning",
+        "Home Odds": 1.7027027027027029,
+        "Draw Odds": 3.51,
+        "Away Odds": 1.5984555984555984
+    },
+    {
+        "Date": "2024-10-30",
+        "Time": "02:30",
+        "Home Team": "Utah Hockey Club",
+        "Away Team": "Calgary Flames",
+        "Home Odds": 1.5289575289575292,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.7722007722007722
+    },
+    {
+        "Date": "2024-10-30",
+        "Time": "03:00",
+        "Home Team": "Los Angeles Kings",
+        "Away Team": "Vegas Golden Knights",
+        "Home Odds": 1.8764478764478767,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.4594594594594597
+    },
+    {
+        "Date": "2024-10-30",
+        "Time": "03:30",
+        "Home Team": "Vancouver Canucks",
+        "Away Team": "New Jersey Devils",
+        "Home Odds": 1.5637065637065637,
+        "Draw Odds": 3.51,
+        "Away Odds": 1.7374517374517375
+    },
+    {
+        "Date": "2024-10-31",
+        "Time": "00:00",
+        "Home Team": "Toronto Maple Leafs",
+        "Away Team": "Seattle Kraken",
+        "Home Odds": 1.2023166023166023,
+        "Draw Odds": 3.6,
+        "Away Odds": 2.5019305019305023
+    },
+    {
+        "Date": "2024-10-31",
+        "Time": "00:00",
+        "Home Team": "Philadelphia Flyers",
+        "Away Team": "St. Louis Blues",
+        "Home Odds": 1.4247104247104247,
+        "Draw Odds": 3.42,
+        "Away Odds": 2.0015444015444017
+    },
+    {
+        "Date": "2024-10-31",
+        "Time": "00:00",
+        "Home Team": "Pittsburgh Penguins",
+        "Away Team": "Anaheim Ducks",
+        "Home Odds": 1.271814671814672,
+        "Draw Odds": 3.6,
+        "Away Odds": 2.258687258687259
+    },
+    {
+        "Date": "2024-10-31",
+        "Time": "00:00",
+        "Home Team": "Washington Capitals",
+        "Away Team": "Montreal Canadiens",
+        "Home Odds": 1.1467181467181466,
+        "Draw Odds": 3.7800000000000002,
+        "Away Odds": 2.77992277992278
+    },
+    {
+        "Date": "2024-10-31",
+        "Time": "00:00",
+        "Home Team": "Carolina Hurricanes",
+        "Away Team": "Boston Bruins",
+        "Home Odds": 1.2857142857142858,
+        "Draw Odds": 3.555,
+        "Away Odds": 2.2934362934362933
+    },
+    {
+        "Date": "2024-10-31",
+        "Time": "01:00",
+        "Home Team": "Nashville Predators",
+        "Away Team": "Edmonton Oilers",
+        "Home Odds": 1.4942084942084943,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.8416988416988416
+    },
+    {
+        "Date": "2024-10-31",
+        "Time": "03:30",
+        "Home Team": "San Jose Sharks",
+        "Away Team": "Chicago Blackhawks",
+        "Home Odds": 2.084942084942085,
+        "Draw Odds": 3.51,
+        "Away Odds": 1.3552123552123552
+    },
+    {
+        "Date": "2024-11-01",
+        "Time": "19:00",
+        "Home Team": "Dallas Stars",
+        "Away Team": "Florida Panthers",
+        "Home Odds": 1.7374517374517375,
+        "Draw Odds": 3.42,
+        "Away Odds": 1.5637065637065637
+    },
+    {
+        "Date": "2024-11-01",
+        "Time": "00:00",
+        "Home Team": "Buffalo Sabres",
+        "Away Team": "New York Islanders",
+        "Home Odds": 1.5984555984555984,
+        "Draw Odds": 3.375,
+        "Away Odds": 1.7374517374517375
+    },
+    {
+        "Date": "2024-11-01",
+        "Time": "00:00",
+        "Home Team": "New York Rangers",
+        "Away Team": "Ottawa Senators",
+        "Home Odds": 1.2857142857142858,
+        "Draw Odds": 3.6,
+        "Away Odds": 2.258687258687259
+    },
+    {
+        "Date": "2024-11-01",
+        "Time": "00:00",
+        "Home Team": "Columbus Blue Jackets",
+        "Away Team": "Winnipeg Jets",
+        "Home Odds": 2.0501930501930503,
+        "Draw Odds": 3.555,
+        "Away Odds": 1.3552123552123552
+    },
+    {
+        "Date": "2024-11-01",
+        "Time": "01:00",
+        "Home Team": "Minnesota Wild",
+        "Away Team": "Tampa Bay Lightning",
+        "Home Odds": 1.6332046332046335,
+        "Draw Odds": 3.42,
+        "Away Odds": 1.7027027027027029
+    },
+    {
+        "Date": "2024-11-01",
+        "Time": "02:00",
+        "Home Team": "Calgary Flames",
+        "Away Team": "New Jersey Devils",
+        "Home Odds": 2.2239382239382244,
+        "Draw Odds": 3.6,
+        "Away Odds": 1.2857142857142858
+    },
+    {
+        "Date": "2024-11-02",
+        "Time": "17:00",
+        "Home Team": "Florida Panthers",
+        "Away Team": "Dallas Stars",
+        "Home Odds": 1.654054054054054,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.6679536679536682
+    },
+    {
+        "Date": "2024-11-02",
+        "Time": "18:00",
+        "Home Team": "Philadelphia Flyers",
+        "Away Team": "Boston Bruins",
+        "Home Odds": 1.8069498069498073,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.5289575289575292
+    },
+    {
+        "Date": "2024-11-02",
+        "Time": "21:00",
+        "Home Team": "Los Angeles Kings",
+        "Away Team": "Chicago Blackhawks",
+        "Home Odds": 1.271814671814672,
+        "Draw Odds": 3.555,
+        "Away Odds": 2.328185328185328
+    },
+    {
+        "Date": "2024-11-02",
+        "Time": "22:00",
+        "Home Team": "Washington Capitals",
+        "Away Team": "Columbus Blue Jackets",
+        "Home Odds": 1.0633204633204634,
+        "Draw Odds": 4.05,
+        "Away Odds": 3.1274131274131274
+    },
+    {
+        "Date": "2024-11-02",
+        "Time": "00:00",
+        "Home Team": "Ottawa Senators",
+        "Away Team": "Seattle Kraken",
+        "Home Odds": 1.5289575289575292,
+        "Draw Odds": 3.42,
+        "Away Odds": 1.8069498069498073
+    },
+    {
+        "Date": "2024-11-02",
+        "Time": "00:00",
+        "Home Team": "Detroit Red Wings",
+        "Away Team": "Buffalo Sabres",
+        "Home Odds": 1.5984555984555984,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.7027027027027029
+    },
+    {
+        "Date": "2024-11-02",
+        "Time": "00:00",
+        "Home Team": "Pittsburgh Penguins",
+        "Away Team": "Montreal Canadiens",
+        "Home Odds": 1.271814671814672,
+        "Draw Odds": 3.6,
+        "Away Odds": 2.2934362934362933
+    },
+    {
+        "Date": "2024-11-02",
+        "Time": "00:00",
+        "Home Team": "St. Louis Blues",
+        "Away Team": "Toronto Maple Leafs",
+        "Home Odds": 2.4324324324324325,
+        "Draw Odds": 3.6,
+        "Away Odds": 1.2301158301158301
+    },
+    {
+        "Date": "2024-11-02",
+        "Time": "01:00",
+        "Home Team": "Nashville Predators",
+        "Away Team": "Colorado Avalanche",
+        "Home Odds": 1.4942084942084943,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.8416988416988416
+    },
+    {
+        "Date": "2024-11-02",
+        "Time": "03:00",
+        "Home Team": "San Jose Sharks",
+        "Away Team": "Vancouver Canucks",
+        "Home Odds": 3.3011583011583014,
+        "Draw Odds": 4.05,
+        "Away Odds": 1.0424710424710426
+    },
+    {
+        "Date": "2024-11-02",
+        "Time": "03:00",
+        "Home Team": "Vegas Golden Knights",
+        "Away Team": "Utah Hockey Club",
+        "Home Odds": 1.2857142857142858,
+        "Draw Odds": 3.555,
+        "Away Odds": 2.258687258687259
+    },
+    {
+        "Date": "2024-11-03",
+        "Time": "19:00",
+        "Home Team": "New York Rangers",
+        "Away Team": "New York Islanders",
+        "Home Odds": 1.2509652509652511,
+        "Draw Odds": 3.555,
+        "Away Odds": 2.397683397683398
+    },
+    {
+        "Date": "2024-11-03",
+        "Time": "21:00",
+        "Home Team": "Winnipeg Jets",
+        "Away Team": "Tampa Bay Lightning",
+        "Home Odds": 1.38996138996139,
+        "Draw Odds": 3.555,
+        "Away Odds": 2.0154440154440154
+    },
+    {
+        "Date": "2024-11-03",
+        "Time": "23:00",
+        "Home Team": "Boston Bruins",
+        "Away Team": "Seattle Kraken",
+        "Home Odds": 1.2857142857142858,
+        "Draw Odds": 3.51,
+        "Away Odds": 2.2934362934362933
+    },
+    {
+        "Date": "2024-11-03",
+        "Time": "23:00",
+        "Home Team": "Carolina Hurricanes",
+        "Away Team": "Washington Capitals",
+        "Home Odds": 1.0633204633204634,
+        "Draw Odds": 3.8970000000000002,
+        "Away Odds": 3.3011583011583014
+    },
+    {
+        "Date": "2024-11-03",
+        "Time": "00:00",
+        "Home Team": "Minnesota Wild",
+        "Away Team": "Toronto Maple Leafs",
+        "Home Odds": 1.5637065637065637,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.7722007722007722
+    },
+    {
+        "Date": "2024-11-03",
+        "Time": "02:00",
+        "Home Team": "Calgary Flames",
+        "Away Team": "Edmonton Oilers",
+        "Home Odds": 2.084942084942085,
+        "Draw Odds": 3.555,
+        "Away Odds": 1.3552123552123552
+    },
+    {
+        "Date": "2024-11-03",
+        "Time": "02:00",
+        "Home Team": "Anaheim Ducks",
+        "Away Team": "Chicago Blackhawks",
+        "Home Odds": 1.4942084942084943,
+        "Draw Odds": 3.42,
+        "Away Odds": 1.8416988416988416
+    },
+    {
+        "Date": "2024-11-04",
+        "Time": "02:00",
+        "Home Team": "Nashville Predators",
+        "Away Team": "Los Angeles Kings",
+        "Home Odds": 1.4247104247104247,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.9806949806949807
+    },
+    {
+        "Date": "2024-11-04",
+        "Time": "02:30",
+        "Home Team": "Edmonton Oilers",
+        "Away Team": "New Jersey Devils",
+        "Home Odds": 1.8764478764478767,
+        "Draw Odds": 3.51,
+        "Away Odds": 1.4942084942084943
+    },
+    {
+        "Date": "2024-11-05",
+        "Time": "01:00",
+        "Home Team": "Buffalo Sabres",
+        "Away Team": "Ottawa Senators",
+        "Home Odds": 1.7374517374517375,
+        "Draw Odds": 3.42,
+        "Away Odds": 1.5984555984555984
+    },
+    {
+        "Date": "2024-11-05",
+        "Time": "01:00",
+        "Home Team": "Toronto Maple Leafs",
+        "Away Team": "Boston Bruins",
+        "Home Odds": 1.5289575289575292,
+        "Draw Odds": 3.375,
+        "Away Odds": 1.8277992277992279
+    },
+    {
+        "Date": "2024-11-05",
+        "Time": "01:00",
+        "Home Team": "Montreal Canadiens",
+        "Away Team": "Calgary Flames",
+        "Home Odds": 1.9806949806949807,
+        "Draw Odds": 3.51,
+        "Away Odds": 1.4247104247104247
+    },
+    {
+        "Date": "2024-11-05",
+        "Time": "01:00",
+        "Home Team": "Carolina Hurricanes",
+        "Away Team": "Philadelphia Flyers",
+        "Home Odds": 1.0285714285714287,
+        "Draw Odds": 4.05,
+        "Away Odds": 3.474903474903475
+    },
+    {
+        "Date": "2024-11-05",
+        "Time": "01:30",
+        "Home Team": "New York Islanders",
+        "Away Team": "Pittsburgh Penguins",
+        "Home Odds": 1.4594594594594597,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.8764478764478767
+    },
+    {
+        "Date": "2024-11-05",
+        "Time": "02:00",
+        "Home Team": "St. Louis Blues",
+        "Away Team": "Tampa Bay Lightning",
+        "Home Odds": 2.2239382239382244,
+        "Draw Odds": 3.51,
+        "Away Odds": 1.3204633204633205
+    },
+    {
+        "Date": "2024-11-05",
+        "Time": "02:00",
+        "Home Team": "Minnesota Wild",
+        "Away Team": "Los Angeles Kings",
+        "Home Odds": 1.271814671814672,
+        "Draw Odds": 3.555,
+        "Away Odds": 2.2934362934362933
+    },
+    {
+        "Date": "2024-11-05",
+        "Time": "02:00",
+        "Home Team": "Winnipeg Jets",
+        "Away Team": "Utah Hockey Club",
+        "Home Odds": 1.1467181467181466,
+        "Draw Odds": 3.7800000000000002,
+        "Away Odds": 2.77992277992278
+    },
+    {
+        "Date": "2024-11-05",
+        "Time": "03:00",
+        "Home Team": "Colorado Avalanche",
+        "Away Team": "Seattle Kraken",
+        "Home Odds": 1.2509652509652511,
+        "Draw Odds": 3.6,
+        "Away Odds": 2.362934362934363
+    },
+    {
+        "Date": "2024-11-05",
+        "Time": "04:00",
+        "Home Team": "Anaheim Ducks",
+        "Away Team": "Vancouver Canucks",
+        "Home Odds": 2.9189189189189193,
+        "Draw Odds": 3.7800000000000002,
+        "Away Odds": 1.1119691119691122
+    },
+    {
+        "Date": "2024-11-05",
+        "Time": "04:30",
+        "Home Team": "San Jose Sharks",
+        "Away Team": "Columbus Blue Jackets",
+        "Home Odds": 1.8416988416988416,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.4942084942084943
+    },
+    {
+        "Date": "2024-11-06",
+        "Time": "01:00",
+        "Home Team": "Washington Capitals",
+        "Away Team": "Nashville Predators",
+        "Home Odds": 1.5984555984555984,
+        "Draw Odds": 3.42,
+        "Away Odds": 1.7374517374517375
+    },
+    {
+        "Date": "2024-11-06",
+        "Time": "02:00",
+        "Home Team": "Chicago Blackhawks",
+        "Away Team": "Detroit Red Wings",
+        "Home Odds": 1.6679536679536682,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.654054054054054
+    },
+    {
+        "Date": "2024-11-06",
+        "Time": "02:30",
+        "Home Team": "Edmonton Oilers",
+        "Away Team": "Vegas Golden Knights",
+        "Home Odds": 1.3552123552123552,
+        "Draw Odds": 3.555,
+        "Away Odds": 2.0501930501930503
+    },
+    {
+        "Date": "2024-11-07",
+        "Time": "01:00",
+        "Home Team": "Boston Bruins",
+        "Away Team": "Calgary Flames",
+        "Home Odds": 1.3552123552123552,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 2.084942084942085
+    },
+    {
+        "Date": "2024-11-07",
+        "Time": "01:00",
+        "Home Team": "Ottawa Senators",
+        "Away Team": "New York Islanders",
+        "Home Odds": 1.4247104247104247,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.9806949806949807
+    },
+    {
+        "Date": "2024-11-07",
+        "Time": "01:00",
+        "Home Team": "Florida Panthers",
+        "Away Team": "Nashville Predators",
+        "Home Odds": 1.1814671814671815,
+        "Draw Odds": 3.6,
+        "Away Odds": 2.5714285714285716
+    },
+    {
+        "Date": "2024-11-07",
+        "Time": "01:00",
+        "Home Team": "New Jersey Devils",
+        "Away Team": "Montreal Canadiens",
+        "Home Odds": 1.0077220077220077,
+        "Draw Odds": 4.05,
+        "Away Odds": 3.648648648648649
+    },
+    {
+        "Date": "2024-11-07",
+        "Time": "01:00",
+        "Home Team": "New York Rangers",
+        "Away Team": "Buffalo Sabres",
+        "Home Odds": 1.2162162162162162,
+        "Draw Odds": 3.6,
+        "Away Odds": 2.4324324324324325
+    },
+    {
+        "Date": "2024-11-07",
+        "Time": "01:00",
+        "Home Team": "Carolina Hurricanes",
+        "Away Team": "Pittsburgh Penguins",
+        "Home Odds": 1.0633204633204634,
+        "Draw Odds": 3.8970000000000002,
+        "Away Odds": 3.1274131274131274
+    },
+    {
+        "Date": "2024-11-07",
+        "Time": "01:30",
+        "Home Team": "Tampa Bay Lightning",
+        "Away Team": "Philadelphia Flyers",
+        "Home Odds": 1.1814671814671815,
+        "Draw Odds": 3.6,
+        "Away Odds": 2.5714285714285716
+    },
+    {
+        "Date": "2024-11-07",
+        "Time": "02:00",
+        "Home Team": "Dallas Stars",
+        "Away Team": "Chicago Blackhawks",
+        "Home Odds": 1.0007722007722009,
+        "Draw Odds": 4.05,
+        "Away Odds": 3.648648648648649
+    },
+    {
+        "Date": "2024-11-07",
+        "Time": "02:00",
+        "Home Team": "Winnipeg Jets",
+        "Away Team": "Colorado Avalanche",
+        "Home Odds": 1.38996138996139,
+        "Draw Odds": 3.51,
+        "Away Odds": 2.0015444015444017
+    },
+    {
+        "Date": "2024-11-07",
+        "Time": "02:00",
+        "Home Team": "St. Louis Blues",
+        "Away Team": "Utah Hockey Club",
+        "Home Odds": 1.7027027027027029,
+        "Draw Odds": 3.375,
+        "Away Odds": 1.6332046332046335
+    },
+    {
+        "Date": "2024-11-07",
+        "Time": "04:30",
+        "Home Team": "Los Angeles Kings",
+        "Away Team": "Vancouver Canucks",
+        "Home Odds": 1.8764478764478767,
+        "Draw Odds": 3.375,
+        "Away Odds": 1.4942084942084943
+    },
+    {
+        "Date": "2024-11-07",
+        "Time": "04:30",
+        "Home Team": "San Jose Sharks",
+        "Away Team": "Minnesota Wild",
+        "Home Odds": 3.1274131274131274,
+        "Draw Odds": 3.8970000000000002,
+        "Away Odds": 1.0772200772200773
+    },
+    {
+        "Date": "2024-11-08",
+        "Time": "01:00",
+        "Home Team": "Toronto Maple Leafs",
+        "Away Team": "Detroit Red Wings",
+        "Home Odds": 1.2301158301158301,
+        "Draw Odds": 3.6,
+        "Away Odds": 2.4324324324324325
+    },
+    {
+        "Date": "2024-11-08",
+        "Time": "01:30",
+        "Home Team": "Washington Capitals",
+        "Away Team": "Pittsburgh Penguins",
+        "Home Odds": 1.2301158301158301,
+        "Draw Odds": 3.6,
+        "Away Odds": 2.397683397683398
+    },
+    {
+        "Date": "2024-11-08",
+        "Time": "04:00",
+        "Home Team": "Anaheim Ducks",
+        "Away Team": "Minnesota Wild",
+        "Home Odds": 2.4671814671814674,
+        "Draw Odds": 3.6,
+        "Away Odds": 1.2162162162162162
+    },
+    {
+        "Date": "2024-11-08",
+        "Time": "04:00",
+        "Home Team": "Seattle Kraken",
+        "Away Team": "Vegas Golden Knights",
+        "Home Odds": 1.945945945945946,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.4247104247104247
+    },
+    {
+        "Date": "2024-11-09",
+        "Time": "19:00",
+        "Home Team": "Buffalo Sabres",
+        "Away Team": "Calgary Flames",
+        "Home Odds": 1.38996138996139,
+        "Draw Odds": 3.51,
+        "Away Odds": 2.0501930501930503
+    },
+    {
+        "Date": "2024-11-09",
+        "Time": "21:00",
+        "Home Team": "Winnipeg Jets",
+        "Away Team": "Dallas Stars",
+        "Home Odds": 1.6679536679536682,
+        "Draw Odds": 3.42,
+        "Away Odds": 1.6679536679536682
+    },
+    {
+        "Date": "2024-11-09",
+        "Time": "00:00",
+        "Home Team": "Florida Panthers",
+        "Away Team": "Philadelphia Flyers",
+        "Home Odds": 1.0633204633204634,
+        "Draw Odds": 3.8970000000000002,
+        "Away Odds": 3.3011583011583014
+    },
+    {
+        "Date": "2024-11-09",
+        "Time": "01:00",
+        "Home Team": "Boston Bruins",
+        "Away Team": "Ottawa Senators",
+        "Home Odds": 1.4247104247104247,
+        "Draw Odds": 3.42,
+        "Away Odds": 2.0015444015444017
+    },
+    {
+        "Date": "2024-11-09",
+        "Time": "01:00",
+        "Home Team": "Toronto Maple Leafs",
+        "Away Team": "Montreal Canadiens",
+        "Home Odds": 1.2509652509652511,
+        "Draw Odds": 3.6,
+        "Away Odds": 2.397683397683398
+    },
+    {
+        "Date": "2024-11-09",
+        "Time": "01:00",
+        "Home Team": "Detroit Red Wings",
+        "Away Team": "New York Rangers",
+        "Home Odds": 2.7104247104247103,
+        "Draw Odds": 3.7800000000000002,
+        "Away Odds": 1.1467181467181466
+    },
+    {
+        "Date": "2024-11-09",
+        "Time": "01:00",
+        "Home Team": "St. Louis Blues",
+        "Away Team": "Washington Capitals",
+        "Home Odds": 1.9111969111969114,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.4594594594594597
+    },
+    {
+        "Date": "2024-11-09",
+        "Time": "01:30",
+        "Home Team": "New York Islanders",
+        "Away Team": "New Jersey Devils",
+        "Home Odds": 1.945945945945946,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.4247104247104247
+    },
+    {
+        "Date": "2024-11-09",
+        "Time": "02:00",
+        "Home Team": "Nashville Predators",
+        "Away Team": "Utah Hockey Club",
+        "Home Odds": 1.3413127413127413,
+        "Draw Odds": 3.51,
+        "Away Odds": 2.1544401544401546
+    },
+    {
+        "Date": "2024-11-09",
+        "Time": "03:00",
+        "Home Team": "Colorado Avalanche",
+        "Away Team": "Carolina Hurricanes",
+        "Home Odds": 1.8069498069498073,
+        "Draw Odds": 3.51,
+        "Away Odds": 1.5289575289575292
+    },
+    {
+        "Date": "2024-11-09",
+        "Time": "03:00",
+        "Home Team": "Los Angeles Kings",
+        "Away Team": "Columbus Blue Jackets",
+        "Home Odds": 1.2023166023166023,
+        "Draw Odds": 3.6,
+        "Away Odds": 2.5366795366795367
+    },
+    {
+        "Date": "2024-11-09",
+        "Time": "04:00",
+        "Home Team": "Vancouver Canucks",
+        "Away Team": "Edmonton Oilers",
+        "Home Odds": 1.8069498069498073,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.5289575289575292
+    },
+    {
+        "Date": "2024-11-10",
+        "Time": "01:00",
+        "Home Team": "New Jersey Devils",
+        "Away Team": "San Jose Sharks",
+        "Home Odds": 1.0285714285714287,
+        "Draw Odds": 4.05,
+        "Away Odds": 3.474903474903475
+    },
+    {
+        "Date": "2024-11-10",
+        "Time": "01:00",
+        "Home Team": "Chicago Blackhawks",
+        "Away Team": "Minnesota Wild",
+        "Home Odds": 2.328185328185328,
+        "Draw Odds": 3.6,
+        "Away Odds": 1.2509652509652511
+    },
+    {
+        "Date": "2024-11-10",
+        "Time": "02:00",
+        "Home Team": "Anaheim Ducks",
+        "Away Team": "Columbus Blue Jackets",
+        "Home Odds": 1.7027027027027029,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.6332046332046335
+    },
+    {
+        "Date": "2024-11-11",
+        "Time": "18:30",
+        "Home Team": "Buffalo Sabres",
+        "Away Team": "Montreal Canadiens",
+        "Home Odds": 1.1467181467181466,
+        "Draw Odds": 3.7800000000000002,
+        "Away Odds": 2.77992277992278
+    },
+    {
+        "Date": "2024-11-11",
+        "Time": "01:00",
+        "Home Team": "Philadelphia Flyers",
+        "Away Team": "San Jose Sharks",
+        "Home Odds": 1.0633204633204634,
+        "Draw Odds": 3.8970000000000002,
+        "Away Odds": 3.3011583011583014
+    },
+    {
+        "Date": "2024-11-11",
+        "Time": "01:00",
+        "Home Team": "Pittsburgh Penguins",
+        "Away Team": "Dallas Stars",
+        "Home Odds": 2.1544401544401546,
+        "Draw Odds": 3.555,
+        "Away Odds": 1.3274131274131273
+    },
+    {
+        "Date": "2024-11-11",
+        "Time": "02:30",
+        "Home Team": "Calgary Flames",
+        "Away Team": "Los Angeles Kings",
+        "Home Odds": 1.9111969111969114,
+        "Draw Odds": 3.42,
+        "Away Odds": 1.4942084942084943
+    },
+    {
+        "Date": "2024-11-11",
+        "Time": "03:00",
+        "Home Team": "Colorado Avalanche",
+        "Away Team": "Nashville Predators",
+        "Home Odds": 1.4247104247104247,
+        "Draw Odds": 3.51,
+        "Away Odds": 1.945945945945946
+    },
+    {
+        "Date": "2024-11-11",
+        "Time": "04:00",
+        "Home Team": "Vegas Golden Knights",
+        "Away Team": "Carolina Hurricanes",
+        "Home Odds": 2.0015444015444017,
+        "Draw Odds": 3.51,
+        "Away Odds": 1.38996138996139
+    },
+    {
+        "Date": "2024-11-12",
+        "Time": "01:00",
+        "Home Team": "Toronto Maple Leafs",
+        "Away Team": "Ottawa Senators",
+        "Home Odds": 1.5289575289575292,
+        "Draw Odds": 3.42,
+        "Away Odds": 1.8069498069498073
+    },
+    {
+        "Date": "2024-11-12",
+        "Time": "01:00",
+        "Home Team": "New York Rangers",
+        "Away Team": "Winnipeg Jets",
+        "Home Odds": 1.5637065637065637,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.7374517374517375
+    },
+    {
+        "Date": "2024-11-12",
+        "Time": "01:30",
+        "Home Team": "Florida Panthers",
+        "Away Team": "New Jersey Devils",
+        "Home Odds": 1.5637065637065637,
+        "Draw Odds": 3.42,
+        "Away Odds": 1.7722007722007722
+    },
+    {
+        "Date": "2024-11-12",
+        "Time": "02:00",
+        "Home Team": "St. Louis Blues",
+        "Away Team": "Boston Bruins",
+        "Home Odds": 2.2239382239382244,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.3274131274131273
+    },
+    {
+        "Date": "2024-11-12",
+        "Time": "03:00",
+        "Home Team": "Edmonton Oilers",
+        "Away Team": "New York Islanders",
+        "Home Odds": 1.1467181467181466,
+        "Draw Odds": 3.7800000000000002,
+        "Away Odds": 2.7451737451737452
+    },
+    {
+        "Date": "2024-11-12",
+        "Time": "04:00",
+        "Home Team": "Vancouver Canucks",
+        "Away Team": "Calgary Flames",
+        "Home Odds": 1.1467181467181466,
+        "Draw Odds": 3.7800000000000002,
+        "Away Odds": 2.77992277992278
+    },
+    {
+        "Date": "2024-11-12",
+        "Time": "04:00",
+        "Home Team": "Seattle Kraken",
+        "Away Team": "Columbus Blue Jackets",
+        "Home Odds": 1.38996138996139,
+        "Draw Odds": 3.51,
+        "Away Odds": 2.0501930501930503
+    },
+    {
+        "Date": "2024-11-13",
+        "Time": "01:30",
+        "Home Team": "Pittsburgh Penguins",
+        "Away Team": "Detroit Red Wings",
+        "Home Odds": 1.4247104247104247,
+        "Draw Odds": 3.51,
+        "Away Odds": 1.945945945945946
+    },
+    {
+        "Date": "2024-11-13",
+        "Time": "01:30",
+        "Home Team": "Washington Capitals",
+        "Away Team": "Toronto Maple Leafs",
+        "Home Odds": 1.4247104247104247,
+        "Draw Odds": 3.42,
+        "Away Odds": 2.0015444015444017
+    },
+    {
+        "Date": "2024-11-13",
+        "Time": "03:00",
+        "Home Team": "Utah Hockey Club",
+        "Away Team": "Carolina Hurricanes",
+        "Home Odds": 2.5019305019305023,
+        "Draw Odds": 3.6,
+        "Away Odds": 1.2023166023166023
+    },
+    {
+        "Date": "2024-11-13",
+        "Time": "04:00",
+        "Home Team": "Colorado Avalanche",
+        "Away Team": "Los Angeles Kings",
+        "Home Odds": 1.4594594594594597,
+        "Draw Odds": 3.4650000000000003,
+        "Away Odds": 1.9111969111969114
+    },
+    {
+        "Date": "2024-11-13",
+        "Time": "04:00",
+        "Home Team": "Anaheim Ducks",
+        "Away Team": "Vegas Golden Knights",
+        "Home Odds": 2.77992277992278,
+        "Draw Odds": 3.7800000000000002,
+        "Away Odds": 1.125868725868726
+    }
+]
