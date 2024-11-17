@@ -60,9 +60,9 @@ for row in match_rows:
                 "Time": time,
                 "Home Team": home_team,
                 "Away Team": away_team,
-                "Home Odds": float(home_odds)*0.9,
+                "Home Odds": float(home_odds)*0.9/1.295,
                 "Draw Odds": float(draw_odds)*0.9,
-                "Away Odds": float(away_odds)*0.9
+                "Away Odds": float(away_odds)*0.9/1.295
             })
 
 # Define the output JSON file path

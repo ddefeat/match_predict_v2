@@ -9,10 +9,10 @@ WIN_RATE_FLOOR = 0.19767074850012234
 CEIL = 1.398889540374118
 
 
-home_name = "Anaheim Ducks"
-away_name = "Detroit Red Wings"
-odds_home = 2.25
-odds_visitor = 1.65
+home_name = "Seattle Kraken"
+away_name = "New York Rangers"
+odds_home = 2.5
+odds_visitor = 1.54
 season = "24-25"
 
     # Load and preprocess match data

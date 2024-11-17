@@ -3,11 +3,11 @@ import math
 
 # Constants for ELO calculation
 DEFAULT_RATING = 1000
-FACTOR = 461.3357857391371
-K = 49
-FLOOR = 0.5908222952865976
-WIN_RATE_FLOOR = 0.19767074850012234
-CEIL = 1.398889540374118
+FACTOR = 348.52756272674264
+K = 33
+FLOOR = 0.4756190754648416
+WIN_RATE_FLOOR = 0.2946325964931914
+CEIL = 0.9506928437169432
 
 
 def expected_win(rating_a, rating_b, factor):
@@ -120,8 +120,8 @@ def main(factor, k_factor, floor, win_rate_floor, ceil, season):
     df["Res"] = (df["Gh"] - df["Gv"]).apply(lambda x: (1 + x / abs(x)) / 2)
 
     # Split data into training and testing sets
-    train_df = df.head(int(0.5 * len(df)))
-    test_df = df.tail(int(0.5 * len(df)))
+    train_df = df.head(int(0.9 * len(df)))
+    test_df = df.tail(int(0.1 * len(df)))
 
     # Process training matches to calculate ratings
     ratings, _ = process_matches(train_df, factor, k_factor)
@@ -130,7 +130,7 @@ def main(factor, k_factor, floor, win_rate_floor, ceil, season):
     test_df = add_game_odds(test_df, season)
 
     # Simulate betting
-    balance = 10000
+    balance = 100
     for match in test_df.itertuples(index=False):
         pick = pick_team(
             ratings[match.Home],
