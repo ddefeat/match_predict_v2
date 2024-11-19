@@ -18,3 +18,7 @@ Consider Market Efficiency:
 Issue: Betting markets are generally efficient, making consistent profits challenging.
 Explanation: Odds often reflect the true probabilities, especially in well-covered sports.
 Solution: Look for niche markets or incorporate real-time information that may not be fully accounted for in the odds.
+
++ Experiment w. bet sizes; dynamic vs.statis, double on lose, increase w. certanity, put in new money if low
+
+The reason for some seasons going bad could be that we lose much early on, therefore we never have the chance to "win" back our money, bc of low bet sizes
